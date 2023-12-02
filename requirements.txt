@@ -1,2 +1,2 @@
-youtube-download-cl
+youtube-download-cli
 scrapetube
